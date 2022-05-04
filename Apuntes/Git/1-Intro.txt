@@ -8,8 +8,8 @@ Fetch es el nombre de una nueva API para Javascript con la cuál podemos realiza
 
 PULL:
 -----
-Consiste en llevar a cabo acciones destinadas a generar audiencia para una marca determinada. La publicidad se enfoca en un público masivo
+Hace referencia a un sistema que se ajusta en todo momento a la demanda. Esto quiere decir que no se produce nada hasta que no hay una demanda real del producto.
 
 PUSH:
 -----
-La comunicación se realiza directamente al target o público objetivo de la marca.
+Una programación de tipo push es una programación no referenciada que puede generarse mediante un sistema de planificación o crearse manualmente.
