@@ -1,0 +1,15 @@
+COMMIT:
+-------
+Consolidar, confirmar​ o hacer un commit se refiere, en el contexto de la ciencia de la computación y la gestión de datos, a la idea de confirmar un conjunto de cambios provisionales de forma permanente. 
+
+FETCH:
+-----
+Fetch es el nombre de una nueva API para Javascript con la cuál podemos realizar peticiones HTTP.
+
+PULL:
+-----
+Consiste en llevar a cabo acciones destinadas a generar audiencia para una marca determinada. La publicidad se enfoca en un público masivo
+
+PUSH:
+-----
+La comunicación se realiza directamente al target o público objetivo de la marca.
