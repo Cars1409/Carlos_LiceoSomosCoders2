@@ -4,7 +4,7 @@ Consolidar, confirmar​ o hacer un commit se refiere, en el contexto de la cien
 
 FETCH:
 -----
-Fetch es el nombre de una nueva API para Javascript con la cuál podemos realizar peticiones HTTP.
+Fetch es el nombre de una nueva API (Interfaces de programación de aplicaciones) para Javascript con la cuál podemos realizar peticiones HTTP.
 
 PULL:
 -----
