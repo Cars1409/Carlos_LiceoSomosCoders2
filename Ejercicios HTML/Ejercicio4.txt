@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+<pre>Hello SomosCoders</pre>
+
+<ul>
+    <li><a>Parrafo 2</a></li>
+    <li><a>Parrafo 3</a></li>
+    <li><a>Parrafo 4</a></li>
+    <li><a>Parrafo 5</a></li>
+    <li><a href="#indice6">Parrafo 6</a></li>
+    <li><a>Parrafo 7</a></li>
+    <li><a>Parrafo 8</a></li>
+    <li><a>Parrafo 9</a></li>
+    <li><a>Parrafo 10</a></li>
+    <li><a>Parrafo 11</a></li>
+    <li><a href="#indice12">Parrafo 12</a></li>
+</ul>
+<!--href="#indice1"-->
+
+<h1>Loren Ipsum</h1>
+<p><em>Lorem ipsum</em> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis massa tincidunt dui ut ornare. Non odio euismod lacinia at quis risus sed vulputate. Ipsum consequat nisl vel pretium lectus quam. Sit amet porttitor eget<strong> dolor morbi </strong> non arcu risus quis. Diam sollicitudin tempor id eu nisl nunc mi ipsum faucibus. Et netus et malesuada fames ac turpis. Neque ornare aenean euismod elementum nisi quis. Fames ac turpis egestas maecenas pharetra convallis posuere morbi leo. <br></br>Dolor morbi non arcu risus quis. Pharetra diam sit amet nisl suscipit adipiscing. Ac ut consequat semper viverra nam libero justo laoreet. Tempus imperdiet nulla malesuada pellentesque elit. Egestas pretium aenean pharetra magna ac placerat.</p>  
+
+<ol>
+   <h2><li>Parrafo 2</li></h2>
+    <p>Pretium fusce id velit ut. Massa tincidunt dui ut ornare. Elit duis tristique sollicitudin nibh. Sed sed risus pretium quam vulputate dignissim suspendisse in. Mattis aliquam faucibus purus in massa tempor. In nisl nisi scelerisque eu ultrices vitae auctor eu augue. Parturient montes nascetur ridiculus mus mauris vitae ultricies leo integer. Pellentesque habitant morbi tristique senectus et netus et malesuada fames. Arcu non odio euismod lacinia at quis. Augue interdum velit euismod in pellentesque massa placerat. In hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Massa enim nec dui nunc. Iaculis at erat pellentesque adipiscing.</p><br></br> 
+      
+    <ul>
+        <li>Parrafo 3</li>
+            <p>Eget sit amet tellus cras adipiscing enim eu turpis. Nec feugiat in fermentum posuere urna nec. Auctor urna nunc id cursus metus aliquam eleifend. Morbi tristique senectus et netus et malesuada. Ultrices eros in cursus turpis massa tincidunt dui. Dictum non consectetur a erat nam. Porta nibh venenatis cras sed felis eget velit aliquet. Sed enim ut sem viverra aliquet eget sit. Sed id semper risus in. Commodo viverra maecenas accumsan lacus vel. Id eu nisl nunc mi ipsum faucibus vitae aliquet nec. Arcu bibendum at varius vel pharetra vel. Nunc pulvinar sapien et ligula. Ligula ullamcorper malesuada proin libero nunc. Consequat nisl vel pretium lectus. In est ante in nibh. In egestas erat imperdiet sed euismod nisi. Amet cursus sit amet dictum sit amet justo donec.</p>
+        <li>Parrafo 4</li>
+            <p>Ac orci phasellus egestas tellus. Aenean et tortor at risus viverra adipiscing at in tellus. Rhoncus est pellentesque elit ullamcorper. Nisi quis eleifend quam adipiscing. Quis vel eros donec ac odio tempor orci dapibus. In nulla posuere sollicitudin aliquam. Nibh nisl condimentum id venenatis a condimentum. Donec adipiscing tristique risus nec feugiat in fermentum. Pellentesque dignissim enim sit amet venenatis. Enim tortor at auctor urna. Vestibulum morbi blandit cursus risus at. Faucibus a pellentesque sit amet porttitor eget dolor morbi. Sodales ut eu sem integer vitae. Sed faucibus turpis in eu mi. Erat nam at lectus urna duis convallis. In est ante in nibh mauris cursus.</p>
+        <li>Parrafo 5</li>
+            <p>Feugiat nibh sed pulvinar proin gravida. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Consectetur libero id faucibus nisl tincidunt eget. Est ullamcorper eget nulla facilisi etiam dignissim diam quis. Fringilla urna porttitor rhoncus dolor purus non enim. Justo donec enim diam vulputate ut pharetra sit. Imperdiet sed euismod nisi porta lorem mollis aliquam ut porttitor. Eget egestas purus viverra accumsan. Mauris ultrices eros in cursus turpis massa tincidunt dui ut. Duis at consectetur lorem donec massa. Ultricies leo integer malesuada nunc. Lectus arcu bibendum at varius vel pharetra vel. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. Hendrerit gravida rutrum quisque non tellus orci. Condimentum vitae sapien pellentesque habitant morbi tristique senectus. Viverra nam libero justo laoreet sit amet cursus sit amet. Id neque aliquam vestibulum morbi. Eget nunc scelerisque viverra mauris. Diam vulputate ut pharetra sit amet aliquam id diam maecenas. Malesuada proin libero nunc consequat interdum varius sit.</p>
+            <br>
+    </ul>
+        
+        <h2><li>Parrafo 6</li></h2>
+            <p>Cras ornare arcu dui vivamus arcu felis bibendum. Nisl pretium fusce id velit ut. Diam in arcu cursus euismod quis viverra. Consectetur lorem donec massa sapien faucibus. Massa tincidunt dui ut ornare lectus sit amet est placerat. Sed ullamcorper morbi tincidunt ornare massa eget egestas purus viverra. Rhoncus dolor purus non enim praesent elementum facilisis. Aenean pharetra magna ac placerat vestibulum. Porta lorem mollis aliquam ut porttitor leo a diam sollicitudin. Venenatis a condimentum vitae sapien pellentesque habitant morbi tristique. Quam nulla porttitor massa id neque aliquam vestibulum. Sed libero enim sed faucibus turpis in eu mi bibendum. Mi bibendum neque egestas congue quisque. Proin libero nunc consequat interdum. Odio tempor orci dapibus ultrices in iaculis nunc sed. Etiam non quam lacus suspendisse faucibus interdum posuere lorem. Sit amet massa vitae tortor condimentum lacinia. Quisque non tellus orci ac auctor augue mauris augue. Pretium viverra suspendisse potenti nullam ac tortor. Arcu bibendum at varius vel pharetra vel.</p>
+            <a href="">Volver</a>
+            <a name="indice6"></a>
+            <br></br>
+    <ul>
+        <li>Parrafo 7</li>
+            <p>Ultricies mi quis hendrerit dolor magna. Ipsum dolor sit amet consectetur adipiscing elit duis tristique. Duis tristique sollicitudin nibh sit amet. Amet tellus cras adipiscing enim eu turpis. Quis commodo odio aenean sed adipiscing diam donec. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Tristique senectus et netus et malesuada fames ac turpis. Sed vulputate odio ut enim blandit volutpat maecenas. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Nunc consequat interdum varius sit amet mattis. Nec dui nunc mattis enim. Proin fermentum leo vel orci porta. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Auctor elit sed vulputate mi. Dignissim sodales ut eu sem integer.</p>
+        <li>Parrafo 8</li>
+            <p>Egestas quis ipsum suspendisse ultrices. Scelerisque viverra mauris in aliquam sem fringilla ut morbi tincidunt. Facilisi nullam vehicula ipsum a arcu cursus vitae congue mauris. At tellus at urna condimentum. Elementum integer enim neque volutpat. Risus sed vulputate odio ut enim blandit volutpat. Commodo ullamcorper a lacus vestibulum. Tincidunt id aliquet risus feugiat in ante. Laoreet id donec ultrices tincidunt arcu. Malesuada fames ac turpis egestas integer. Quisque id diam vel quam elementum pulvinar etiam. Erat pellentesque adipiscing commodo elit at. Enim neque volutpat ac tincidunt vitae. Sed enim ut sem viverra aliquet eget sit amet. Aliquet nibh praesent tristique magna sit. Sagittis eu volutpat odio facilisis mauris sit amet.</p><br></br>
+    <ul>
+        <li>Parrafo 9</li>
+            <p>Eget arcu dictum varius duis. In egestas erat imperdiet sed euismod. Amet nisl suscipit adipiscing bibendum. Varius sit amet mattis vulputate enim nulla. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique. Potenti nullam ac tortor vitae purus faucibus. Tellus cras adipiscing enim eu turpis egestas. Ut eu sem integer vitae justo eget. Posuere urna nec tincidunt praesent semper feugiat nibh. Vivamus arcu felis bibendum ut. Lectus quam id leo in vitae. Morbi blandit cursus risus at ultrices mi tempus imperdiet. Blandit libero volutpat sed cras ornare arcu dui vivamus arcu. Sit amet risus nullam eget felis eget. Morbi leo urna molestie at elementum eu facilisis sed odio. Egestas erat imperdiet sed euismod nisi porta lorem mollis. Sit amet aliquam id diam maecenas.</p>
+        <li>Parrafo 10</li>
+            <p>Fringilla urna porttitor rhoncus dolor purus non. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Nunc sed velit dignissim sodales ut eu sem. Tellus in metus vulputate eu scelerisque. Id diam maecenas ultricies mi eget. Et netus et malesuada fames ac turpis egestas integer eget. Vel facilisis volutpat est velit egestas dui id ornare arcu. Pellentesque nec nam aliquam sem et. Nec sagittis aliquam malesuada bibendum arcu. Lectus mauris ultrices eros in cursus turpis massa. Fermentum iaculis eu non diam. Tellus integer feugiat scelerisque varius morbi. Mauris a diam maecenas sed enim ut sem viverra. Amet commodo nulla facilisi nullam vehicula ipsum. Sollicitudin tempor id eu nisl nunc mi. Sed risus pretium quam vulputate dignissim suspendisse in.</p>
+    </ul>
+        <br>
+      
+        <li>Parrafo 11</li>
+            <p>Tellus mauris a diam maecenas sed enim ut sem. Senectus et netus et malesuada fames ac turpis egestas. Suscipit adipiscing bibendum est ultricies. At in tellus integer feugiat scelerisque varius morbi enim nunc. Sed euismod nisi porta lorem mollis aliquam ut porttitor. Gravida in fermentum et sollicitudin ac. Aliquet risus feugiat in ante metus dictum at. Elementum pulvinar etiam non quam lacus. Ac tortor vitae purus faucibus ornare. Imperdiet proin fermentum leo vel. Vitae congue eu consequat ac felis donec et odio.</p>
+    </ul>
+        <br>        
+        <h2><li>Parrafo 12</li></h2>  
+            <p>Duis at consectetur lorem donec massa. Suspendisse ultrices gravida dictum fusce ut placerat. Ac turpis egestas maecenas pharetra convallis posuere. Euismod quis viverra nibh cras pulvinar mattis nunc sed blandit. Orci ac auctor augue mauris augue neque gravida. Vivamus arcu felis bibendum ut tristique et egestas quis. Dignissim diam quis enim lobortis scelerisque fermentum dui faucibus. Amet commodo nulla facilisi nullam vehicula ipsum a. A pellentesque sit amet porttitor eget dolor morbi non. Nam aliquam sem et tortor consequat id porta. Diam in arcu cursus euismod quis viverra. Ultrices eros in cursus turpis. Ornare suspendisse sed nisi lacus. Non nisi est sit amet facilisis magna etiam. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. Tristique senectus et netus et malesuada fames. Aliquam ut porttitor leo a diam. Lobortis scelerisque fermentum dui faucibus in ornare quam viverra. Vitae ultricies leo integer malesuada nunc vel risus commodo.</p>
+        <a href="">Volver</a>
+        <a name="indice12"></a>
+        <br></br>    
+
+    <a href="./ejercicio4.html">Inicio</a>
+  
+</ol>
+</body>
+</html>
