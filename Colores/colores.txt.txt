@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href='style.css' rel='stylesheet'>
+</head>
+<body>
+
+    <h1>Ejemplo 1</h1>
+        <table style="margin: 5cm; height: 240px; width: 350px;">
+        <tr>
+            <th style="background-color: red;">color 1</th>
+            <th style="background-color: white;">color 2</th>
+            <th style="background-color: green;">color 3</th>
+            <th style="background-color: blue;">color 4</th>
+            <th style="background-color: pink;">color 5</th>
+        </tr>
+        </table>
+        
+        <table>
+            <tr>
+                <th class="color1">color1</th>
+                <th class="color2">color2</th>
+                <th class="color3">color3</th>
+                <th class="color4">color4</th>
+                <th class="color5">color5</th>
+            </tr>
+        </table>    
+    
+        <style>
+            .color1{
+                background-color: brown;
+            }
+            .color2{
+                background-color: blue;
+            }
+            .color3{
+                background-color: aquamarine;
+            }
+            .color4{
+                background-color: cornflowerblue;
+            }                
+            .color5{
+                background-color: darkmagenta;
+            }
+            
+        </style>
+
+    <!--
+    <div class="box"></div>
+    <div class="box success"></div>
+    <div class="box"></div>
+    <div class="box success"></div>
+    <div class="box"></div>
+    -->
+
+</body>
+</html>
