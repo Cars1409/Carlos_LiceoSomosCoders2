@@ -1,0 +1,35 @@
+body{
+    margin: 0px;;
+}
+
+.container{
+    max-width: 1200px;
+    width: 50px;
+    margin: 100px 600px;
+    
+}
+
+.contenedor-list{
+    text-align: center;
+    overflow: hidden;
+    width: 600px;
+    height: 130px;  
+}
+
+.contenedor-list > ul{
+   list-style-type: none;
+   height: 100px;
+   margin: 0px;
+   padding: 0px;
+   
+}
+
+.contenedor-list > ul > li{
+     
+    font-family: verdana;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    text-shadow: 4px 4px 4px 7px gray;
+
+}

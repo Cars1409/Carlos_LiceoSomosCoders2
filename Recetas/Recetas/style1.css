@@ -1,0 +1,46 @@
+a:hover {
+    color:aquamarine;
+  }
+
+//*
+body{
+  background-image: url("https://thumbs.dreamstime.com/b/fondo-sano-de-la-comida-para-las-recetas-el-men%C3%BA-o-la-lista-con-las-diversos-verduras-e-ingredientes-org%C3%A1nicos-frescos-del-91962639.jpg");
+}
+*//  
+
+h1 {
+  color: lightslategrays;
+  font-size: 60px;
+  text-align: center;
+  font-family: cursive;
+}
+
+.box{
+  border: 0px solid red;
+  background: whitesmoke;
+  height: 350px;
+  width: 350px;
+  margin: 10px;
+  font-size: 25px;
+  font-family: cursive;
+  display: inline-block;
+}
+
+.enlace{
+  text-align: center;
+}
+
+.receta{
+  padding-top: 50px;  
+}
+
+.imagen{
+  width: 348px;
+  height: 195px;
+}
+
+
+
+
+
+
