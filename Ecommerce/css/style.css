@@ -8,6 +8,11 @@ a{
    text-decoration: none;
 }
 
+*body{
+    margin: 0;
+    padding: 0;
+  }
+
 /*
 body{
    background-image: url("");
@@ -31,7 +36,7 @@ h1{
     border: 1px solid black;
     border-radius: 25px;
     height: 250px;
-    width: 300;
+    width: 300px;
     padding: 5px;
     margin: 10px;
 }
@@ -59,6 +64,22 @@ h1{
     width: 400px;
     text-align: center;    
 }
+
+#sneakers:checked ~ #imagenes .camiseta, 
+#sneakers:checked ~ #imagenes .accesorios{
+    display: none;
+}
+
+#camiseta:checked ~ #imagenes .sneakers, 
+#camiseta:checked ~ #imagenes .accesorios{
+    display: none;
+}
+
+#accesorios:checked ~ #imagenes .camiseta, 
+#accesorios:checked ~ #imagenes .sneakers{
+    display: none;
+}
+
 
 
 #chuck_taylor:checked ~ #imagenes .chuck_70, 
@@ -90,3 +111,4 @@ h1{
 #mochi_mujer:checked ~ #imagenes .cami_mujer{
     display: none;
 }
+
