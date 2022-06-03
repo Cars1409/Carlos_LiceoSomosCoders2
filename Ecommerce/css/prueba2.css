@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    background-color:lightslategrey;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: left;
+    font-family: cursive;
+    color: black;
+    text-align: left;
+  }
+  span{
+    color: red;
+  }
+
+img{
+    float: left;
+    width: 30%;
+    border: 5px double;
+    margin: 10px;       
+}
+
+.menuH{
+    overflow: hidden;
+    border: 5px double;
+}
+
+.menuV{
+    float: left;
+    width: 26%;
+    overflow: hidden;
+    border: 5px double;
+}  
+
+.menuV a{
+    background-color: black;
+    color:  white;
+    text-decoration: none;
+    padding: 20%;
+    display: block;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.menuV a:hover{
+    background-color: white;
+    color: black;
+}
+
+.menuH a{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    float: left;
+    width: 20%;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    font-family: cursive;
+}  
+
+.menuH a:hover{
+    background-color: white;
+    color:black
+}
+
+.section{
+    color:aquamarine;
+    
+}
+
+section{
+    background-color: beige;
+}
+
